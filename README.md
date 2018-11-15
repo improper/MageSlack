@@ -1,7 +1,7 @@
 # SlackGento
 A public Slack channel for the Magento community.
 
-## Join Workspace
+## Join the Slack Workspace
 
 1. Visit: https://publicslack.com/slacks/slackgento/invites/new
 2. Check your email
