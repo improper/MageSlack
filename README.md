@@ -1,5 +1,5 @@
 # SlackGento
-A public Slack channel for the Magento community
+A public Slack channel for the Magento community.
 
 ## Join Workspace
 
@@ -10,3 +10,9 @@ A public Slack channel for the Magento community
 ## Two-Factor Authentication
 
 SMS or app-based two-factor authentication is required to use this channel.
+
+## General Info
+
+- [GitHub Page](https://improper.github.io/SlackGento/)
+- [Request Invite to SlackGento Slack Workspace](https://publicslack.com/slacks/slackgento/invites/new)
+- [SlackGento.slack.com](https://slackgento.slack.com)
