@@ -13,6 +13,6 @@ SMS or app-based two-factor authentication is required to use this channel.
 
 ## General Info
 
-- [GitHub Page](https://improper.github.io/SlackGento/)
-- [Request Invite to MageSlack Workspace](https://publicslack.com/slacks/slackgento/invites/new)
+- [GitHub Page](https://improper.github.io/MageSlack/)
+- [Request Invite to MageSlack Workspace](https://launchpass.com/mageslack)
 - [MageSlack.slack.com](https://slackgento.slack.com)
