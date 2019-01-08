@@ -1,4 +1,4 @@
-# MageSlack
+# MageSlack - A Magento Community Chat Space
 A public Slack channel for the Magento community.
 
 ## Join the Slack Workspace
