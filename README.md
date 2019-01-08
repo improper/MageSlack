@@ -1,5 +1,5 @@
 # MageSlack - A Magento Community Chat Space
-A public Slack channel for the Magento community.
+A public Slack channel for the Magento community. [Jump to features.](#features)
 
 ## Join the Slack Workspace
 
@@ -7,9 +7,15 @@ A public Slack channel for the Magento community.
 2. Check your email
 3. Activate your account
 
-## Two-Factor Authentication
+## Features 
+
+### Two-Factor Authentication
 
 SMS or app-based two-factor authentication is required to use this channel.
+
+### Feed-Channels
+
+Stay up-to-date with the lastest updates from the Magento Blog, Magento Forum Announcements, various Podcasts, Reddit, Stack Exchange & Twitter. These channels are automatically updated as new content is published.
 
 ## General Info
 
